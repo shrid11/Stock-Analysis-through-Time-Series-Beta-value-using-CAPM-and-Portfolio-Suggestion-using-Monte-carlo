@@ -12,6 +12,8 @@ To understand the volatility of the Beta Values were calculated and the expected
 
 Expected Returns against each stock were calculated and the portfolio was built. 
 
+Time Series Analysis for each stock was done. 
+
 As an additional analysis, using Monte-Carlo Simulation the best performing Portfolio and its Returns were calculated. 
 The best returns from the portfolio was found to be 26.2% and the % stocks in that highest return generating portfolio was found. 
 
